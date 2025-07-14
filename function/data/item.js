@@ -118,5 +118,20 @@ const items = [
             stars: 4.2,
             count: 5200,
         },
+    },
+    {
+        id: '009',
+        image: 'images/9.png',
+        company: 'Zari Banaras',
+        item_name: 'Banarasi Silk Saree',
+        original_price: 5000,
+        current_price: 3000,
+        discount_percentage: 40,
+        return_period: 14,
+        delivery_date: '23 July 2025',
+        rating: {
+            stars: 4.9,
+            count: 5400,
+        },
     }
 ];
